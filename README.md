@@ -5,6 +5,6 @@
 
 <div>
    <a href=https://beacons.ai/agnerloss">
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=agnerloss&show_icons=true&theme=dark#gh-dark-mode-only)]" />                     </div>
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=agnerloss&show_icons=true&theme=dracula#gh-dark-mode-only)]" />                     </div>
    
                                       
