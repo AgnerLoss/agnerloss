@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com gestão de tecnologia em transição de carreira para DevOps/Cloud/SRE
 - 🌱 Estudando cultura DevOps e suas ferramentas
-- 😄 Pronouns: ele/dele
 
 <div>
    <a href=https://beacons.ai/agnerloss">
