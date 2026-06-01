@@ -2,14 +2,6 @@ Olá! Sou o Agner Loss Rodrigues
 🔭 Gestor de TI na Secretaria de Saúde de Serra-ES, em transição para Cloud/DevOps/SRE
 🌱 Estudando infraestrutura de cloud, observabilidade e automação
 🚀 Participando do MoveTech 2026 — programa de formação em Cloud da LuizaLabs/Magalu
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=agnerloss&show_icons=true&theme=dark">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=agnerloss&show_icons=true&theme=dark"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=agnerloss&layout=compact&theme=dark">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnerloss&layout=compact&theme=dark"/>
-  </a>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
