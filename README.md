@@ -1,32 +1,36 @@
-## Olá! Sou o Agner Loss Rodrigues
+Olá! Sou o Agner Loss Rodrigues
+🔭 Gestor de TI na Secretaria de Saúde de Serra-ES, em transição para Cloud/DevOps/SRE
+🌱 Estudando infraestrutura de cloud, observabilidade e automação
+🚀 Participando do MoveTech 2026 — programa de formação em Cloud da LuizaLabs/Magalu
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=agnerloss&show_icons=true&theme=dark">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=agnerloss&show_icons=true&theme=dark"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=agnerloss&layout=compact&theme=dark">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnerloss&layout=compact&theme=dark"/>
+  </a>
+</div>
 
-- 🔭 Hoje trabalho com gestão de tecnologia em transição de carreira para DevOps/Cloud/SRE
-- 🌱 Estudando cultura DevOps e suas ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="vagrant" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
+  <img align="center" alt="ansible" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
+  <img align="center" alt="aws" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="kubernetes" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+  <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="prometheus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
+</div>
 
 <div>
-   <a href=https://beacons.ai/agnerloss">
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=agnerloss&show_icons=true&theme=dark#gh-dark-mode-only"/>                     
-	<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnerloss&layout=compact"/>						  
+  <a href="https://www.linkedin.com/in/agnerloss" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>  
+  <a href="mailto:agner1984@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://agner.k8sloss.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
-                 
-##                                                                                                                                
-<div style="display: inline_block"><br>
-    <img align="center" alt="carlos-linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">	
-    <img align="center" alt="carlos-vagrant" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg">
-    <img align="center" alt="carlos-ansible" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
-    <img align="center" alt="agner-aws" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" alt="carlos-docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">     
-    <img align="center" alt="carlos-git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">    
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/agnerloss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://instagram.com/agnerloss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
- <a href="https://discord.gg/Agner#7474" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:agner1984@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
-</div>
-                                      
