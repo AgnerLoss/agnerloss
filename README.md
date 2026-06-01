@@ -23,6 +23,6 @@ Olá! Sou o Agner Loss Rodrigues
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://agner.k8sloss.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Blog%23000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
