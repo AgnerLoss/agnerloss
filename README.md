@@ -1,7 +1,7 @@
 Olá! Sou o Agner Loss Rodrigues
-🔭 Gestor de TI na Secretaria de Saúde de Serra-ES, em transição para Cloud/DevOps/SRE
-🌱 Estudando infraestrutura de cloud, observabilidade e automação
-🚀 Participando do MoveTech 2026 — programa de formação em Cloud da LuizaLabs/Magalu
+- 🔭 Gestor de TI na Secretaria de Saúde de Serra-ES, em transição para Cloud/DevOps/SRE
+- 🌱 Estudando infraestrutura de cloud, observabilidade e automação
+- 🚀 Participando do MoveTech 2026 — programa de formação em Cloud da LuizaLabs/Magalu
 
 
 <div style="display: inline_block"><br>
